@@ -708,150 +708,175 @@ if (message.content === '$spam') {
 
 client.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client2.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client3.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client4.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client5.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client5.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client6.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client7.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client8.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client9.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client10.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client11.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client12.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client13.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client14.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client15.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client16.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client17.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client18.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client19.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client20.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client21.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client22.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client23.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
 
 client24.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"@Quick
+#0002" + myid + ">")
     }
 });
